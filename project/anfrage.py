@@ -45,4 +45,4 @@ while True:
 			f"HTTP {response.status_code} - {response.text}"
 		)
 	print("--------------------------------------------------------------\n")
-	time.sleep(20)
+	time.sleep(900)
