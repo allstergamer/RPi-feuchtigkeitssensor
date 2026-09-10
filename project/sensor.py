@@ -14,7 +14,7 @@ inputs = [d0input, d1input, d2input, d3input]
 
 while True:
 #	print("start wait")
-	time.sleep(5)
+	time.sleep(30)
 
 #	print("scan")
 
